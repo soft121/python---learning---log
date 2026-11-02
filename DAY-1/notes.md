@@ -4,7 +4,6 @@
 我开始系统规划学习 Python
 
 ## 练习代码
-python
-print("你好,python!")
+今天没写代码；Windows 系统可以在命令提示符或 PowerShell 中输入python --version检查 Python 环境是否安装成功；macOS 系统可以在终端中输入python3 --version进行检查。
 
 ## 我遇到问题 
